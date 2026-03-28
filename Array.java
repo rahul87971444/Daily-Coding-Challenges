@@ -5,7 +5,7 @@ public class Array {
         arr[1]  = 444;     
         arr[2] = 567;
         arr[3] = 1233;
-         arr[4] = 5678;
-         System.out.println(arr[2]);
+        arr[4] = 5678;
+        System.out.println(arr[2]);
     }
 }
