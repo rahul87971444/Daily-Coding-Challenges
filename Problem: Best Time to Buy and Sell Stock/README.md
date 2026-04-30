@@ -49,7 +49,7 @@ Profit = 6 - 1 = 5
 
 ---
 
-##⏱️ Complexity
+## ⏱️ Complexity
  
 - Time: O(n)
 - Space: O(1)
