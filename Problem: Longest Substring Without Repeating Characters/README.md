@@ -87,11 +87,3 @@ Explanation: "abc" is the longest substring without repeating characters.
 "abcdef"   → 6
 ```
 
----
-
-## 🚀 Next Topic
-
-👉 Day 4 – Two Pointers (Container With Most Water)
-
----
-
